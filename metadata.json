@@ -1,0 +1,5 @@
+{
+  "name": "LexiSummarize",
+  "description": "AI-powered legal document summarization system for court judgments and contracts.",
+  "requestFramePermissions": []
+}
